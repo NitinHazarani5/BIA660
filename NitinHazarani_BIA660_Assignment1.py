@@ -1,4 +1,4 @@
-#Web Mining Assignment 1
+#BIA 660 Web Mining Assignment 1
 
 import requests as req
 
